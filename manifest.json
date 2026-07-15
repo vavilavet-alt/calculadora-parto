@@ -1,0 +1,12 @@
+{
+  "name": "Calculadora de Parto",
+  "short_name": "Calc. Parto",
+  "description": "Fecha de parto estimada en bovinos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f6",
+  "theme_color": "#2d4a7c",
+  "icons": [
+    { "src": "abs-logo.png", "sizes": "225x270", "type": "image/png", "purpose": "any" }
+  ]
+}
