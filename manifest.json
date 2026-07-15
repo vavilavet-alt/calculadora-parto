@@ -7,6 +7,9 @@
   "background_color": "#f4f4f6",
   "theme_color": "#2d4a7c",
   "icons": [
-    { "src": "abs-logo.png", "sizes": "225x270", "type": "image/png", "purpose": "any" }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
